@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className='Navbar'>
       
       <div className='lobo'>
-        Welcome to Kurariya Marketings </div>
+        Welcome to Kurariya Market </div>
        <div className='Access'>
         <Link to={'/'} >
         <button>Home</button>

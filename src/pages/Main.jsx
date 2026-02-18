@@ -1,5 +1,3 @@
-
-import bgVideo from "/12831892_1920_1080_30fps.mp4";
 import { Link } from "react-router-dom";
 import MensWear from "./MensWear";
 import WomensWear from "./WomensWear";
