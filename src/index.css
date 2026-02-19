@@ -165,6 +165,7 @@ button{
 }
 .hello{
   color: palegreen;
+  display: flex;
   flex-direction: column;
   font-size: xx-large;
   font-weight: bold;
