@@ -165,17 +165,18 @@ button{
 }
 .hello{
   color: palegreen;
+  flex-direction: column;
   font-size: xx-large;
   font-weight: bold;
   text-align: center;
   margin-top: 20px;
   min-height: 100vh;
-  width: screen-width;
+  width: 100%;
 }
 
 
 .products-container {
-  display: flex;
+  display: flex;;
   gap: 20px;
   flex-wrap: wrap;
   justify-content: center;
